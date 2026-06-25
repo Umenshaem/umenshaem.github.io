@@ -1,0 +1,3 @@
+{% for a in site.data.list %}
+{% if a.s == include.s %}<a href="{{ a.url }}">{{ a.t }}</a><br>{% endif %}
+{% endfor %}

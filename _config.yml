@@ -1,0 +1,25 @@
+# Setup
+title:               Уменьшаем
+url:                 https://umenshaem.github.io
+baseurl:             ''
+permalink:           /:title:output_ext
+
+# Social networks
+vk:                  https://vk.com/umenshaem
+telegram:            https://t.me/umenshaem
+
+# Admin contacts
+admin:
+  email: latif.rosh@gmail.com
+  vk: https://vk.com/umenshaem
+  telegram: https://t.me/umenshaem
+
+# Custom vars
+collections:
+  articles:
+    output: true
+    permalink: /:title:output_ext
+  lists:
+    output: false
+    
+google_analytics: 

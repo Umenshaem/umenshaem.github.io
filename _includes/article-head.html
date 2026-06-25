@@ -1,0 +1,7 @@
+<h1>{{ include.article.title }}</h1>
+{% if include.article.subtitle %}<h2>{{ include.article.subtitle }}</h2>{% endif %}
+<div class="article-info"><b>{{ include.article.original_date | join: " — " }} &#8195 
+{% if include.article.authors %}{% assign b = include.article.authors[0] %}
+{% for a in include.article.authors %}{% if a != b %}, {% endif %}{{ a }}{% endfor %}
+{% endif %}</b></div>
+<hr style="margin-top: 0.2em; margin-bottom: 1em;">
