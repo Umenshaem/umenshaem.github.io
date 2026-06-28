@@ -38,7 +38,7 @@
 
 ### Благополучие животных
 
-- {s: "farm", t: "Владычество (Доминион)", url: "https://www.kinopoisk.ru/film/1048766/", by: "Кинопоиск", type: "movie"}
+- {s: "farm", t: "Господство (Доминион)", url: "https://www.youtube.com/watch?v=h0dbFCnNOhQ", by: "Вита", type: "movie"}
 - {s: "farm", t: "Альтруизм, числа и промышленное животноводство", url: "tobias-baumann-altruism-numbers-and-factory-farms.html", by: "Тобиас Бауман"}
 - {s: "farm", t: "Благополучие животных", url: "https://ea-ru.org/articles/animal-welfare", by: "Джесс Уиттлстоун"}
 - {s: "farm", t: "Воздействие животноводства на окружающую среду", url: "https://voicesforanimals.ru/food/ecology", by: "Голоса за животных"}
@@ -87,7 +87,7 @@
 
 - {s: "bird", t: "Птицы", url: "https://voicesforanimals.ru/why/chickens", by: "Голоса за животных"}
 - {s: "bird", t: "Почему куры вызывают у людей намного меньше эмпатии, чем коровы и свиньи?", url: "https://effective-vegan.livejournal.com/4866.html", by: "Кэролайн Спенс"}
-- {s: "bird", t: "За стенами птицефабрик России", url: "https://www.youtube.com/watch?v=hl2M5RJvZ7o", by: "Голос за животных", type: "video"}
+- {s: "bird", t: "За стенами птицефабрик России", url: "https://www.youtube.com/watch?v=hl2M5RJvZ7o", by: "Голоса за животных", type: "video"}
 - {s: "bird", t: "Кур и свиней сжигают и варят живьем в Европе и США", url: "manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html", by: "Ману Эрран"}
 - {s: "bird", t: "Что не так с курятиной", url: "http://chicken.whyanimals.ru/", by: "WhyAnimals"}
 - {s: "bird", t: "Что не так с куриным яйцом", url: "http://egg.whyanimals.ru/", by: "WhyAnimals"}
@@ -106,29 +106,40 @@
 
 - {s: "fur", t: "Как страдают животные, используемые для получения меха", url: "https://voicesforanimals.ru/why/furbearers", by: "Голоса за животных"}
 - {s: "fur", t: "Почему стоит отказаться от использования меха?", url: "https://russia.furfreeretailer.com/why-fur-free/", by: "Fur Free Retailer"}
-- {s: "fur", t: "Цена меха. Что происходит на зверофермах России", url: "https://www.youtube.com/watch?v=Zk2yn8nPZ8I", by: "Голос за животных", type: "video"}
+- {s: "fur", t: "Цена меха. Что происходит на зверофермах России", url: "https://www.youtube.com/watch?v=Zk2yn8nPZ8I", by: "Голоса за животных", type: "video"}
+- {s: "fur", t: "Россия без меха", url: "https://furfree.ru/", by: "Голоса за животных"}
 - {s: "fur", t: "В самой обильной по производству меха стране с животных снимают шкуру заживо", url: "http://www.vita.org.ru/new/15.0405.htm", by: "Вита"}
-- {s: "fur", t: "Мех", url: "https://voicesforanimals.ru/dress/fur/", by: "Голоса за животных"}
 - {s: "fur", t: "Воздействие производства меха на окружающую среду", url: "https://voicesforanimals.ru/dress/fur/environment", by: "Голоса за животных"}
+- {s: "fur", t: "Настоящая цена меха: кошмар для животных и природы", url: "http://www.vita.org.ru/fur/mexekologiy.htm", by: "Вита"}
 - {s: "fur", t: "Долговечность, ремонт и вторичное использование меха", url: "https://voicesforanimals.ru/durability-repair-reuse-fur", by: "Голоса за животных"}
 - {s: "fur", t: "Какие есть альтернативы? Эко-мех", url: "https://voicesforanimals.ru/dress/fur/alternativy", by: "Голоса за животных"}
 - {s: "fur", t: "Глобальный упадок меховой индустрии: анализ за последние 10 лет", url: "https://voicesforanimals.ru/proizvodstvo-meha-v-mire-upalo/", by: "Голоса за животных"}
 - {s: "fur", t: "Системы сертификации звероферм", url: "https://voicesforanimals.ru/fur-farm-certification-systems", by: "Голоса за животных"}
 - {s: "fur", t: "Любите мех? А вы уверены, что это не мех кошек и собак?", url: "http://www.vita.org.ru/fur/dog_cat/china-kill-dog_cat.htm", by: "Вита"}
+- {s: "fur", t: "Каракуль — мех новорожденных ягнят", url: "http://www.vita.org.ru/fur/karakul.htm", by: "Вита"}
 - {s: "fur", t: "Капканы: железные ловушки", url: "https://voicesforanimals.ru/dress/fur/kapkany", by: "Голоса за животных"}
 - {s: "fur", t: "Жертвы моды. Исследование благополучия животных на зверофермах", url: "http://www.vita.org.ru/library/fur/makkenna-fashion-victims.htm", by: "Кэрол МакКенна"}
 - {s: "fur", type: "div"}
 - {s: "fur", t: "Где купить одежду и обувь", url: "http://www.vita.org.ru/fur/gdekupit.htm", by: "Вита"}
 - {s: "fur", t: "Будущее моды. Список компаний, отказавшихся от меха животных", url: "https://russia.furfreeretailer.com/?retailer_country=russia&sortorder=vir-first#content", by: "Fur Free Retailer"}
 - {s: "fur", type: "div"}
+- {s: "fur", t: "Мех (Голоса за животных)", url: "https://voicesforanimals.ru/dress/fur/", by: "Голоса за животных"}
+- {s: "fur", t: "Мех (Вита)", url: "http://www.vita.org.ru/fur.htm", by: "Вита"}
+- {s: "fur", type: "div"}
 - {s: "fur", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
 - {s: "fur", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
 
 ### Тесты
 
+- {s: "beauty", t: "Какова цена красоты? О позорном секрете косметической индустрии — экспериментах на животных", url: "http://www.vita.org.ru/exper/testcosmet.htm", by: "Джулия Кристи"}
+- {s: "beauty", t: "Тестирование на животных косметики, бытовой химии и другой продукции", url: "http://www.vita.org.ru/exper/exp-cosmetology.htm", by: "Вита"}
 - {s: "beauty", t: "#они_не_для_тестов — кампания за запрет тестирования косметики на животных в странах ЕАЭС", url: "https://www.stoptests.ru/"}
 - {s: "beauty", t: "Запретить тестирование косметики на животных в странах ЕАЭС", url: "https://www.change.org/p/%D0%BE%D0%BD%D0%B8-%D0%BD%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2", type: "petition"}
+- {s: "beauty", t: "Косметика без жестокости", url: "http://www.vita.org.ru/exper/articles-experiments/kultpohod-novozhilova.htm", by: "Вита"}
 - {s: "beauty", t: "Концепция трёх R", url: "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D1%91%D1%85_R", by: "Википедия"}
+- {s: "beauty", type: "div"}
+- {s: "beauty", t: "Список фирм, производящих косметику, парфюмерию и бытовую химию, не испытанные на животных", url: "http://www.vita.org.ru/exper/netestirov.htm", by: "Вита"}
+- {s: "beauty", t: "Черный список: фирмы, тестирующие продукцию на животных", url: "http://www.vita.org.ru/exper/firmu-testirov.htm", by: "Вита"}
 
 ### Прочее
 
@@ -137,6 +148,7 @@
 - {s: "zoo", t: "Что не так с притравками", url: "http://baiting.whyanimals.ru/", by: "WhyAnimals"}
 - {s: "zoo", t: "Что не так с контактными зоопарками", url: "http://contactzoo.whyanimals.ru/", by: "WhyAnimals"}
 - {s: "zoo", t: "Что такое биоэтика и зачем она в школе", url: "https://mel.fm/ucheba/shkola/6347209-zhestokost-po-otnosheniyu-k-zhivotnym-ne-redkost-sredi-detey-chto-takoye-bioetika-i-zachem-ona-v-shk", by: "Мел"}
+- {s: "zoo", t: "Опыты на животных и прогрессивные альтернативы в учебном процессе", url: "http://www.vita.org.ru/exper/exp-education.htm", by: "Вита"}
 
 ### Беспозвоночные
 
@@ -188,8 +200,10 @@
 - {s: "other", t: "Питер Сингер: «Я не трачу денег на спасение панд»", url: "https://web.archive.org/web/20210517132023/https://journal.bookmate.com/ya-ne-trachu-deneg-na-spasenie-pand/", by: "Bookmate Journal"}
 - {s: "other", t: "Почему мы хотим думать, что люди отличаются?", url: "https://reducingsuffering.github.io/colin-chapman-michael-huffman-1.html", by: "Колин Чапмен & Майкл Хаффман"}
 - {s: "other", t: "Сочувствуем ли мы животным больше, чем людям?", url: "https://web.archive.org/web/20211201190829/https://www.wonderzine.com/wonderzine/life/life-opinion/215687-stop-the-violence", by: "Wonderzine"}
-- {s: "other", t: "Почему наука не может обойтись без лабораторных животных?", url: "https://knife.media/lab-animals-problem/", by: "Журнал «Нож»"}
 - {s: "other", t: "Что не так с тестированием на животных", url: "http://testing.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "other", t: "Почему наука не может обойтись без лабораторных животных?", url: "https://knife.media/lab-animals-problem/", by: "Журнал «Нож»"}
+- {s: "other", t: "Эксперименты на животных в медицине", url: "http://www.vita.org.ru/exper/exp-medicine.htm", by: "Вита"}
+- {s: "other", t: "Эксперименты на животных: необходимость или варварство?", url: "http://www.vita.org.ru/exper/experiment-barbarian.htm", by: "Вита"}
 - {s: "other", t: "Далеко не Омелас", url: "https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html", by: "Магнус Виндинг"}
 - {s: "other", t: "Зачем веганам думать о страданиях в дикой природе", url: "https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html", by: "Брайан Томасик"}
 - {s: "other", t: "Страдания диких животных: почему они мало кого волнуют?", url: "https://reducingsuffering.github.io/david-pearce-3.html", by: "Дэвид Пирс"}
