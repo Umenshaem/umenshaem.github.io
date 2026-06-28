@@ -58,6 +58,21 @@ excerpt: "Как помочь животным."
     color: black;
     font-size: 2em;
   }
+  
+  .mobile {
+    display: none;
+  }
+  .desktop {
+    display: block;
+  }
+  @media (max-width: 768px) {
+    .desktop {
+      display: none;
+    }
+    .mobile {
+      display: block;
+    }
+  }
 </style>
 
 <table class="desktop" style="margin-bottom: 0; padding-bottom: 0">
