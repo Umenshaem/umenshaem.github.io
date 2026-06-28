@@ -105,14 +105,21 @@
 ### Мех
 
 - {s: "fur", t: "Как страдают животные, используемые для получения меха", url: "https://voicesforanimals.ru/why/furbearers", by: "Голоса за животных"}
+- {s: "fur", t: "Почему стоит отказаться от использования меха?", url: "https://russia.furfreeretailer.com/why-fur-free/", by: "Fur Free Retailer"}
 - {s: "fur", t: "Цена меха. Что происходит на зверофермах России", url: "https://www.youtube.com/watch?v=Zk2yn8nPZ8I", by: "Голос за животных", type: "video"}
+- {s: "fur", t: "В самой обильной по производству меха стране с животных снимают шкуру заживо", url: "http://www.vita.org.ru/new/15.0405.htm", by: "Вита"}
 - {s: "fur", t: "Мех", url: "https://voicesforanimals.ru/dress/fur/", by: "Голоса за животных"}
 - {s: "fur", t: "Воздействие производства меха на окружающую среду", url: "https://voicesforanimals.ru/dress/fur/environment", by: "Голоса за животных"}
 - {s: "fur", t: "Долговечность, ремонт и вторичное использование меха", url: "https://voicesforanimals.ru/durability-repair-reuse-fur", by: "Голоса за животных"}
-- {s: "fur", t: "Эко-мех", url: "https://voicesforanimals.ru/dress/fur/alternativy", by: "Голоса за животных"}
+- {s: "fur", t: "Какие есть альтернативы? Эко-мех", url: "https://voicesforanimals.ru/dress/fur/alternativy", by: "Голоса за животных"}
 - {s: "fur", t: "Глобальный упадок меховой индустрии: анализ за последние 10 лет", url: "https://voicesforanimals.ru/proizvodstvo-meha-v-mire-upalo/", by: "Голоса за животных"}
 - {s: "fur", t: "Системы сертификации звероферм", url: "https://voicesforanimals.ru/fur-farm-certification-systems", by: "Голоса за животных"}
+- {s: "fur", t: "Любите мех? А вы уверены, что это не мех кошек и собак?", url: "http://www.vita.org.ru/fur/dog_cat/china-kill-dog_cat.htm", by: "Вита"}
 - {s: "fur", t: "Капканы: железные ловушки", url: "https://voicesforanimals.ru/dress/fur/kapkany", by: "Голоса за животных"}
+- {s: "fur", t: "Жертвы моды. Исследование благополучия животных на зверофермах", url: "http://www.vita.org.ru/library/fur/makkenna-fashion-victims.htm", by: "Кэрол МакКенна"}
+- {s: "fur", type: "div"}
+- {s: "fur", t: "Где купить одежду и обувь", url: "http://www.vita.org.ru/fur/gdekupit.htm", by: "Вита"}
+- {s: "fur", t: "Будущее моды. Список компаний, отказавшихся от меха животных", url: "https://russia.furfreeretailer.com/?retailer_country=russia&sortorder=vir-first#content", by: "Fur Free Retailer"}
 - {s: "fur", type: "div"}
 - {s: "fur", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
 - {s: "fur", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
