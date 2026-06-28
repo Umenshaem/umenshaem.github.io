@@ -3,27 +3,169 @@
 
 - {s: "red", t: "Что такое редуктарианство", url: "chto-takoe-reduktarianstvo.html", by: "К. Кирдан"}
 - {s: "red", t: "Замена одного мяса на другое — хорошая ли идея?", url: "zamena-odnogo-myasa-na-drugoe.html", by: "К. Кирдан"}
-- {s: "red", t: "Вегетарианский выбор что-то меняет?", url: "brian-tomasik-does-vegetarianism-make-a-difference.html", by: "Брайан Томасик"}
 - {s: "red", t: "Далай-лама призвал сокращать употребление мяса и забой животных", url: "https://ria.ru/20201107/dalay-lama-1583535346.html", by: "РИА Новости"}
-- {s: "red", t: "Один шаг навстречу животным", url: "https://effective-vegan.livejournal.com/4727.html)"}
 - {s: "red", t: "Берегите здоровье и окружающую среду – устройте себе один вегетарианский день в неделю", url: "https://www.prismamarket.ee/ru/leht/uks-taimetoidupaev-nadalas", by: "Prisma"}
 - {s: "red", t: "Почему не надо есть мясо по понедельникам", url: "https://www.youtube.com/watch?v=SDAqbzqTyQE", by: "Елена Смирнова"}
-- {s: "red", t: "Врач рассказала о плюсах и минусах отказа от мяса", url: "https://iz.ru/1668369/2024-03-20/vrach-rasskazala-o-pliusakh-i-minusakh-otkaza-ot-miasa", by: "Известия"}
+- {s: "red", t: "Временный отказ от мяса полезен для здоровья", url: "https://iz.ru/1668369/2024-03-20/vrach-rasskazala-o-pliusakh-i-minusakh-otkaza-ot-miasa", by: "Известия"}
 - {s: "red", t: "Почему большинство людей ест мясо", url: "https://vk.com/@opencages-bolshinstvo-est", by: "Тобиас Ленарт"}
+- {s: "red", t: "Вегетарианский выбор что-то меняет?", url: "brian-tomasik-does-vegetarianism-make-a-difference.html", by: "Брайан Томасик"}
+- {s: "red", t: "Один шаг навстречу животным", url: "https://effective-vegan.livejournal.com/4727.html)"}
+- {s: "red", t: "Рекомендации по питанию", url: "https://voicesforanimals.ru/plant-based-diet", by: "Голоса за животных"}
+- {s: "red", t: "В Роскачестве опровергли популярные мифы о веганстве и вегетарианстве", url: "https://iz.ru/1891577/2025-05-26/v-roskacestve-oprovergli-popularnye-mify-o-veganstve-i-vegetarianstve", by: "Известия"}
+- {s: "red", t: "Веган Челлендж", url: "https://vegan-challenge.ru/"}
+
+### База
+
+- {s: "basic", t: "Страдание всего живого", url: "nikolaj-berdyaev-1.html", by: "Николай Бердяев"}
+- {s: "basic", t: "Кто мы такие, чтобы судить об уме животных?", url: "https://web.archive.org/web/20230608152626/https://newtonew.com/science/kto-my-takie-chtoby-sudit-ob-ume-zhivotnyh", by: "Newtonew"}
+- {s: "basic", t: "Способны ли они страдать? О связи интеллекта со страданием", url: "richard-dawkins-but-can-they-suffer.html", by: "Ричард Докинз"}
+- {s: "basic", t: "Сентиентность", url: "https://vk.com/@-186526582-sentience", by: "Иван Попов"}
+- {s: "basic", t: "Против видовой дискриминации", url: "tobias-baumann-the-case-against-speciesism.html", by: "Тобиас Бауман"}
+- {s: "basic", t: "Звери, роботы и люди: есть ли шансы на равноправие?", url: "https://newochem.io/moral-circle/", by: "Newочём"}
+
+### Как общаться с людьми
+
+- {s: "comm", t: "Как правильно спорить о главном в интернете и реальной жизни", url: "https://knife.media/epistemology/", by: "Мария Оленева"}
+- {s: "comm", t: "Как говорить на этические темы?", url: "https://streetepistemology.ru/kak-govorit-na-eticheskie-temy", by: "Уличная эпистемология"}
+- {s: "comm", t: "Почему большинство интернет-активистов не меняют ничьего мнения", url: "https://effective-vegan.livejournal.com/3339.html", by: "Дэвид Кейн"}
+- {s: "comm", t: "Сначала доброта, потом правота: почему аргументы не помогают переубедить человека", url: "https://ideanomics.ru/articles/28692", by: "Джеймс Клир"}
+- {s: "comm", t: "Как отказ от насилия в речи помогает решить проблемы в отношениях с другими и самим собой", url: "https://knife.media/be-less-violent/", by: "Мария Оленева"}
+- {s: "comm", t: "Как обсуждать проблемы, когда противоречия непреодолимы", url: "https://reminder.media/post/pravila-emotsionalnogo-obshcheniya", by: "Адам Грант"}
+- {s: "comm", t: "«Вы все врете!»: почему мы игнорируем факты и отказываемся менять свою точку зрения", url: "https://knife.media/cognitive-distortion/", by: "Олег Матфатов"}
+- {s: "comm", t: "Почему мы думаем, что правы, даже когда это не так", url: "https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong?lang=ru", by: "Джулия Галеф"}
+- {s: "comm", t: "Среда, общение и рациональность", url: "https://quilfe.livejournal.com/723.html", by: "Виталий Бормотов"}
+- {s: "comm", t: "Узники ненависти: когнитивная основа гнева, враждебности и насилия", url: "https://www.twirpx.com/file/3819831/", by: "Аарон Бек", type: "book"}
+
+### Благополучие животных
+
+- {s: "farm", t: "Владычество (Доминион)", url: "https://www.kinopoisk.ru/film/1048766/", by: "Кинопоиск", type: "movie"}
+- {s: "farm", t: "Альтруизм, числа и промышленное животноводство", url: "tobias-baumann-altruism-numbers-and-factory-farms.html", by: "Тобиас Бауман"}
+- {s: "farm", t: "Благополучие животных", url: "https://ea-ru.org/articles/animal-welfare", by: "Джесс Уиттлстоун"}
+- {s: "farm", t: "Воздействие животноводства на окружающую среду", url: "https://voicesforanimals.ru/food/ecology", by: "Голоса за животных"}
+- {s: "farm", t: "Животноводство: распределённое зло", url: "magnus-vinding-animal-agriculture-distributed-evil.html", by: "Магнус Виндинг"}
+- {s: "farm", t: "За что люди будущего могут считать нас варварами?", url: "https://hedweb-ru.github.io/quora/people-of-the-future-think-of-us-as-barbarians.html", by: "Дэвид Пирс"}
+- {s: "farm", type: "div"}
+- {s: "farm", t: "Как эффективно уменьшить страдания животных", url: "tobias-baumann-effective-strategies-to-reduce-animal-suffering.html", by: "Тобиас Бауман"}
+- {s: "farm", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
+- {s: "farm", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
+- {s: "farm", t: "Освобождение животных", url: "http://vita.org.ru/library/philosophy/singer_animal_liberation.htm", by: "Питер Сингер", type: "book"}
+- {s: "farm", t: "10 лет прогресса для животных на промышленных фермах", url: "https://vk.com/@-88626327-10-let-progressa", by: "Льюис Боллард"}
+- {s: "farm", t: "Маркировка страданий. Швейцария вводит этикетку благополучия на продуктах", url: "https://t.me/voicesforanimals/2222", by: "Голоса за животных"}
+- {s: "farm", t: "Совместный опрос «Открытых клеток» и НАФИ показал, что россиян волнует благосостояние животных", url: "https://web.archive.org/web/20221001013752/https://opencages.ru/blog/survey", by: "Открытые клетки"}
+
+#### Скот
+
+- {s: "cow", t: "Как страдают коровы", url: "https://voicesforanimals.ru/why/cattle", by: "Голоса за животных"}
+- {s: "cow", t: "Что не так с говядиной", url: "http://beef.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "cow", t: "Что не так с молоком", url: "http://milk.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "cow", type: "div"}
+- {s: "cow", t: "Кожа", url: "https://voicesforanimals.ru/dress/leather", by: "Голоса за животных"}
+- {s: "cow", t: "Что носить вместо кожи?", url: "https://voicesforanimals.ru/dress/leather/choice", by: "Голоса за животных"}
+- {s: "cow", type: "div"}
+- {s: "cow", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
+- {s: "cow", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
+
+- {s: "pig", t: "Как страдают свиньи", url: "https://voicesforanimals.ru/why/pigs", by: "Голоса за животных"}
+- {s: "pig", t: "Что не так со свинофермами", url: "http://pig.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "pig", t: "Кур и свиней сжигают и варят живьем в Европе и США", url: "manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html", by: "Ману Эрран"}
+- {s: "pig", type: "div"}
+- {s: "pig", t: "Кожа", url: "https://voicesforanimals.ru/dress/leather", by: "Голоса за животных"}
+- {s: "pig", t: "Что носить вместо кожи?", url: "https://voicesforanimals.ru/dress/leather/choice", by: "Голоса за животных"}
+- {s: "pig", type: "div"}
+- {s: "pig", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
+- {s: "pig", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
+
+- {s: "sheep", t: "Шерсть", url: "https://voicesforanimals.ru/dress/wool", by: "Голоса за животных"}
+- {s: "sheep", t: "Кожа", url: "https://voicesforanimals.ru/dress/leather", by: "Голоса за животных"}
+- {s: "sheep", t: "Овцы, у которых слишком много кожи", url: "https://voicesforanimals.ru/dress/wool/merinos", by: "Голоса за животных"}
+- {s: "sheep", t: "Что носить вместо кожи?", url: "https://voicesforanimals.ru/dress/leather/choice", by: "Голоса за животных"}
+- {s: "sheep", type: "div"}
+- {s: "sheep", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
+- {s: "sheep", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
+
+#### Птицы
+
+- {s: "bird", t: "Птицы", url: "https://voicesforanimals.ru/why/chickens", by: "Голоса за животных"}
+- {s: "bird", t: "Почему куры вызывают у людей намного меньше эмпатии, чем коровы и свиньи?", url: "https://effective-vegan.livejournal.com/4866.html", by: "Кэролайн Спенс"}
+- {s: "bird", t: "За стенами птицефабрик России", url: "https://www.youtube.com/watch?v=hl2M5RJvZ7o", by: "Голос за животных", type: "video"}
+- {s: "bird", t: "Кур и свиней сжигают и варят живьем в Европе и США", url: "manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html", by: "Ману Эрран"}
+- {s: "bird", t: "Что не так с курятиной", url: "http://chicken.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "bird", t: "Что не так с куриным яйцом", url: "http://egg.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "bird", type: "div"}
+- {s: "bird", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
+- {s: "bird", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
+
+#### Водные животные
+
+- {s: "fish", t: "Рыба", url: "https://voicesforanimals.ru/food/fish", by: "Голоса за животных"}
+- {s: "fish", t: "Триллион рыб", url: "brian-tomasik-one-trillion-fish.html", by: "Брайан Томасик"}
+- {s: "fish", t: "Крик без голоса: как убивают рыб в промышленных масштабах", url: "https://t.me/voicesforanimals/2184", by: "Голоса за животных"}
+- {s: "fish", t: "Всемирный день отмены рыболовства", url: "https://vk.com/wall-30456083_48421", by: "Голоса за животных"}
+
+### Мех
+
+- {s: "fur", t: "Как страдают животные, используемые для получения меха", url: "https://voicesforanimals.ru/why/furbearers", by: "Голоса за животных"}
+- {s: "fur", t: "Цена меха. Что происходит на зверофермах России", url: "https://www.youtube.com/watch?v=Zk2yn8nPZ8I", by: "Голос за животных", type: "video"}
+- {s: "fur", t: "Мех", url: "https://voicesforanimals.ru/dress/fur/", by: "Голоса за животных"}
+- {s: "fur", t: "Воздействие производства меха на окружающую среду", url: "https://voicesforanimals.ru/dress/fur/environment", by: "Голоса за животных"}
+- {s: "fur", t: "Долговечность, ремонт и вторичное использование меха", url: "https://voicesforanimals.ru/durability-repair-reuse-fur", by: "Голоса за животных"}
+- {s: "fur", t: "Эко-мех", url: "https://voicesforanimals.ru/dress/fur/alternativy", by: "Голоса за животных"}
+- {s: "fur", t: "Глобальный упадок меховой индустрии: анализ за последние 10 лет", url: "https://voicesforanimals.ru/proizvodstvo-meha-v-mire-upalo/", by: "Голоса за животных"}
+- {s: "fur", t: "Системы сертификации звероферм", url: "https://voicesforanimals.ru/fur-farm-certification-systems", by: "Голоса за животных"}
+- {s: "fur", t: "Капканы: железные ловушки", url: "https://voicesforanimals.ru/dress/fur/kapkany", by: "Голоса за животных"}
+- {s: "fur", type: "div"}
+- {s: "fur", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
+- {s: "fur", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных", type: "petition"}
+
+### Тесты
+
+- {s: "beauty", t: "#они_не_для_тестов — кампания за запрет тестирования косметики на животных в странах ЕАЭС", url: "https://www.stoptests.ru/"}
+- {s: "beauty", t: "Запретить тестирование косметики на животных в странах ЕАЭС", url: "https://www.change.org/p/%D0%BE%D0%BD%D0%B8-%D0%BD%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2", type: "petition"}
+- {s: "beauty", t: "Концепция трёх R", url: "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D1%91%D1%85_R", by: "Википедия"}
+
+### Прочее
+
+- {s: "zoo", t: "Ангорская шерсть. Как кричат кролики", url: "https://voicesforanimals.ru/dress/wool/angora", by: "Голоса за животных"}
+- {s: "zoo", t: "Экспертное мнение. Что не так с методами массового умерщвления животных в сельском хозяйстве", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-metodami-massovogo-umershhvlenija-zhivotnyh-v-selskom-hozjajstve", by: "Голоса за животных"}
+- {s: "zoo", t: "Что не так с притравками", url: "http://baiting.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "zoo", t: "Что не так с контактными зоопарками", url: "http://contactzoo.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "zoo", t: "Что такое биоэтика и зачем она в школе", url: "https://mel.fm/ucheba/shkola/6347209-zhestokost-po-otnosheniyu-k-zhivotnym-ne-redkost-sredi-detey-chto-takoye-bioetika-i-zachem-ona-v-shk", by: "Мел"}
+
+### Беспозвоночные
+
+- {s: "inv", t: "Испытывают ли боль беспозвоночные?", url: "https://habr.com/ru/post/553074/", by: "Фанерозой"}
+- {s: "inv", t: "Боль головоногая", url: "https://nplus1.ru/material/2020/12/18/consider-the-octopus", by: "N + 1"}
+- {s: "inv", t: "Крабы и омары заслуживают защиты от приготовления вживую", url: "https://theidealist.ru/crabpain/", by: "Джонатан Бирч"}
+- {s: "inv", t: "Больше боли. Шмели умеют терпеть. Значит ли это, что им бывает больно?", url: "https://nplus1.ru/material/2022/08/19/bumblebees-in-pain", by: "N + 1"}
+- {s: "inv", t: "Биологи решили, что насекомые могут переживать боль", url: "https://naked-science.ru/article/biology/nasekomye-mogut-perezhivat-bol", by: "Naked Science"}
+- {s: "inv", t: "Пчёлы — «философские зомби» или сознательные существа?", url: "https://ubq124.wordpress.com/2019/01/02/inside-the-mind-of-a-bee-is-a-hive-of-sensory-activity/", by: "Ларс Читтка, Кэтрин Уилсон"}
+- {s: "inv", t: "Триллионы невидимых страданий: как эксплуатируют насекомых", url: "https://t.me/voicesforanimals/2124", by: "Голоса за животных"}
+- {s: "inv", t: "Что не так с энтомофагией", url: "brian-tomasik-whats-wrong-with-entomophagy-a-short-interview.html", by: "Брайан Томасик"}
 
 ### Вегетарианство и веганство
 
 - {s: "veg", t: "Кто такие веганы и чем отличаются от вегетарианцев?", url: "https://lenta.ru/articles/2024/03/25/kto-takie-vegany/", by: "Лента.ру"}
 - {s: "veg", t: "Почему веганы так много говорят о веганстве?", url: "michael-dello-iacovo-why-do-vegans-talk-about-veganism-so-much.html", by: "Майкл Делло-Иаково"}
+- {s: "veg", t: "Почему веганы вызывают к себе иррациональную ненависть?", url: "https://www.bbc.com/russian/vert-fut-51545294", by: "BBC"}
+- {s: "veg", t: "Вегетарианский выбор что-то меняет?", url: "brian-tomasik-does-vegetarianism-make-a-difference.html", by: "Брайан Томасик"}
+- {s: "veg", t: "Почему большевики преследовали вегетарианцев", url: "https://www.kommersant.ru/doc/4017210", by: "Коммерсант"}
+- {s: "veg", t: "Рекомендации по питанию", url: "https://voicesforanimals.ru/plant-based-diet", by: "Голоса за животных"}
+- {s: "veg", t: "В Роскачестве опровергли популярные мифы о веганстве и вегетарианстве", url: "https://iz.ru/1891577/2025-05-26/v-roskacestve-oprovergli-popularnye-mify-o-veganstve-i-vegetarianstve", by: "Известия"}
+- {s: "veg", t: "Гайд по веганству: быть или не быть?", url: "https://cuprum.media/razbor/go-vegan?si=6a388372a6b5cb351a0f62a6", by: "Купрум"}
+- {s: "veg", type: "div"}
 - {s: "veg", t: "Как сделать мир веганским. Прагматичный подход", url: "https://vk.com/@-17228-vegan-world", by: "Вегетарианцы и веганы"}
-- {s: "veg", t: "Как сделать мир веганским", url: "https://www.youtube.com/watch?v=fYfhpG9kZGs", by: "Тобиас Ленарт"}
 - {s: "veg", t: "Продвижение к веганскому миру", url: "tobias-leenaert-tipping-the-system-towards-a-vegan-world.html", by: "Тобиас Ленарт"}
 - {s: "veg", t: "12 привычек высокоэффективного вегана", url: "https://veganbird.ru/perevod-12-privychek-vysokoeffektivnogo-vegana/", by: "Тобиас Ленарт"}
-- {s: "veg", t: "Веганомика", url: "https://veganbird.ru/kniga-ob-effektivnom-veganstve-veganomika/", by: "Ник Куни"}
-- {s: "veg", t: "Почему веганы вызывают к себе иррациональную ненависть?", url: "https://www.bbc.com/russian/vert-fut-51545294", by: "BBC"}
-- {s: "veg", t: "Почему большевики преследовали вегетарианцев", url: "https://www.kommersant.ru/doc/4017210", by: "Коммерсант"}
-- {s: "veg", t: "В Роскачестве опровергли популярные мифы о веганстве и вегетарианстве", url: "https://iz.ru/1891577/2025-05-26/v-roskacestve-oprovergli-popularnye-mify-o-veganstve-i-vegetarianstve", by: "Известия"}
+- {s: "veg", t: "Веганомика", url: "https://veganbird.ru/kniga-ob-effektivnom-veganstve-veganomika/", by: "Ник Куни", type: "book"}
+- {s: "veg", t: "Освобождение животных", url: "http://vita.org.ru/library/philosophy/singer_animal_liberation.htm", by: "Питер Сингер", type: "book"}
+- {s: "veg", t: "Как сделать мир веганским", url: "https://www.youtube.com/watch?v=fYfhpG9kZGs", by: "Тобиас Ленарт"}
+- {s: "veg", type: "div"}
 - {s: "veg", t: "Могут ли домашние кошки и собаки быть вегетарианцами?", url: "https://takiedela.ru/news/2019/01/04/animal-veganism/", by: "Такие Дела"}
+- {s: "veg", type: "div"}
+- {s: "veg", t: "Нравственные основы вегетарианства", url: "https://siyanie.net/catalog/literatura/tproduct/136790127012-kniga-moralnie-osnovi-vegetarianstva-mah", by: "Махатма Ганди"}
+- {s: "veg", t: "«Они не рабы»: Что такое веганский аболиционизм", url: "https://web.archive.org/web/20210514042722/https://www.wonderzine.com/wonderzine/life/life/237351-vegan-abolitionism", by: "Wonderzine"}
+- {s: "veg", t: "От утилитариста до аболициониста и назад через месяц", url: "michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month.html", by: "Майкл Делло-Иаково"}
+- {s: "veg", t: "Зачем веганам думать о страданиях в дикой природе", url: "https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html", by: "Брайан Томасик"}
 
 ### Искусственное мясо
 
@@ -34,106 +176,22 @@
 - {s: "tech", t: "Израильтяне запустили крупную фабрику по производству мяса из пробирки", url: "https://nplus1.ru/news/2021/06/25/meat-factory", by: "N + 1"}
 - {s: "tech", t: "Более половины россиян готовы включить в свой рацион мясозаменители", url: "https://nafi.ru/polls/bolee-poloviny-rossiyan-gotovy-vklyuchit-v-svoy-ratsion-myasozameniteli/", by: "НАФИ"}
 
-### Благополучие животных
+### Этика
 
-- {s: "farm", t: "Владычество (Доминион)", url: "https://www.kinopoisk.ru/film/1048766/", by: "Кинопоиск"}
-- {s: "farm", t: "Благополучие животных", url: "https://ea-ru.org/articles/animal-welfare", by: "Джесс Уиттлстоун"}
-- {s: "farm", t: "Альтруизм, числа и промышленное животноводство", url: "tobias-baumann-altruism-numbers-and-factory-farms.html", by: "Тобиас Бауман"}
-- {s: "farm", t: "Животноводство: распределённое зло", url: "magnus-vinding-animal-agriculture-distributed-evil.html", by: "Магнус Виндинг"}
-- {s: "farm", t: "Промышленное животноводство — одно из самых страшных преступлений в истории", url: "https://syg.ma/@tochkinade/promyshliennoie-zhivotnovodstvo-odno-iz-samykh-strashnykh-priestuplienii-v-istorii", by: "Юваль Ной Харари"}
-- {s: "farm", t: "Воздействие животноводства на окружающую среду", url: "https://voicesforanimals.ru/food/ecology", by: "Голоса за животных"}
-- {s: "farm", t: "За что люди будущего могут считать нас варварами?", url: "https://hedweb-ru.github.io/quora/people-of-the-future-think-of-us-as-barbarians.html", by: "Дэвид Пирс"}
-- {s: "farm", t: "Как эффективно уменьшить страдания животных", url: "tobias-baumann-effective-strategies-to-reduce-animal-suffering.html", by: "Тобиас Бауман"}
-- {s: "farm", t: "Защитим от жестокости животных в сельском хозяйстве", url: "https://www.change.org/p/%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D0%B5-%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85-%D0%B2-%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%BC-%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B5-%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC", by: "Голоса за животных"}
-- {s: "farm", t: "Освобождение животных", url: "http://vita.org.ru/library/philosophy/singer_animal_liberation.htm", by: "Питер Сингер"}
-- {s: "farm", t: "10 лет прогресса для животных на промышленных фермах", url: "https://vk.com/@-88626327-10-let-progressa", by: "Льюис Боллард"}
-- {s: "farm", t: "Хорошие новости со всего света", url: "https://t.me/voicesforanimals/2207", by: "Голоса за животных"}
-- {s: "farm", t: "Маркировка страданий. Швейцария вводит этикетку благополучия на продуктах", url: "https://t.me/voicesforanimals/2222", by: "Голоса за животных"}
-- {s: "farm", t: "Совместный опрос «Открытых клеток» и НАФИ показал, что россиян волнует благосостояние животных", url: "https://web.archive.org/web/20221001013752/https://opencages.ru/blog/survey", by: "Открытые клетки"}
+- {s: "other", t: "Питер Сингер: «Я не трачу денег на спасение панд»", url: "https://web.archive.org/web/20210517132023/https://journal.bookmate.com/ya-ne-trachu-deneg-na-spasenie-pand/", by: "Bookmate Journal"}
+- {s: "other", t: "Почему мы хотим думать, что люди отличаются?", url: "https://reducingsuffering.github.io/colin-chapman-michael-huffman-1.html", by: "Колин Чапмен & Майкл Хаффман"}
+- {s: "other", t: "Сочувствуем ли мы животным больше, чем людям?", url: "https://web.archive.org/web/20211201190829/https://www.wonderzine.com/wonderzine/life/life-opinion/215687-stop-the-violence", by: "Wonderzine"}
+- {s: "other", t: "Почему наука не может обойтись без лабораторных животных?", url: "https://knife.media/lab-animals-problem/", by: "Журнал «Нож»"}
+- {s: "other", t: "Что не так с тестированием на животных", url: "http://testing.whyanimals.ru/", by: "WhyAnimals"}
+- {s: "other", t: "Далеко не Омелас", url: "https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html", by: "Магнус Виндинг"}
+- {s: "other", t: "Зачем веганам думать о страданиях в дикой природе", url: "https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html", by: "Брайан Томасик"}
+- {s: "other", t: "Страдания диких животных: почему они мало кого волнуют?", url: "https://reducingsuffering.github.io/david-pearce-3.html", by: "Дэвид Пирс"}
+- {s: "other", t: "Философское измерение биологии благополучия: обзор зарубежных исследований", url: "https://reducingsuffering.github.io/%D0%B0-%D0%B2-%D1%85%D0%BE%D0%B4%D1%8B%D0%BA%D0%B8%D0%BD-%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%81%D0%BA%D0%BE%D0%B5-%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%8F.html", by: "Александр Ходыкин"}
+- {s: "other", t: "Умножит ли колонизация космоса страдания диких животных?", url: "https://reducingsuffering.github.io/brian-tomasik-will-space-colonization-multiply-wild-animal-suffering.html", by: "Брайан Томасик"}
+- {s: "other", t: "ИИ должны быть защищены не меньше животных", url: "https://reducingsuffering.github.io/john-basl-ais-should-have-the-same-ethical-protections-as-animals.html", by: "Джон Басл & Эрик Швицгебель"}
 
-#### Скот
+### Исключенное
 
-- {s: "cow", t: "Как страдают коровы", url: "https://voicesforanimals.ru/why/cattle", by: "Голоса за животных"}
-- {s: "cow", t: "Что не так с говядиной", url: "http://beef.whyanimals.ru/", by: "WhyAnimals"}
-- {s: "cow", t: "Что не так с молоком", url: "http://milk.whyanimals.ru/", by: "WhyAnimals"}
-- {s: "cow", t: "Как страдают свиньи", url: "https://voicesforanimals.ru/why/pigs", by: "Голоса за животных"}
-- {s: "cow", t: "Что не так со свинофермами", url: "http://pig.whyanimals.ru/", by: "WhyAnimals"}
-- {s: "cow", t: "Кур и свиней сжигают и варят живьем в Европе и США", url: "manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html", by: "Ману Эрран"}
-- {s: "cow", t: "Кожа", url: "https://voicesforanimals.ru/dress/leather", by: "Голоса за животных"}
-- {s: "cow", t: "Шерсть", url: "https://voicesforanimals.ru/dress/wool", by: "Голоса за животных"}
-
-#### Птицы
-
-- {s: "bird", t: "Птицы", url: "https://voicesforanimals.ru/why/chickens", by: "Голоса за животных"}
-- {s: "bird", t: "Почему куры вызывают у людей намного меньше эмпатии, чем коровы и свиньи?", url: "https://effective-vegan.livejournal.com/4866.html", by: "Кэролайн Спенс"}
-- {s: "bird", t: "За стенами птицефабрик России", url: "https://www.youtube.com/watch?v=hl2M5RJvZ7o", by: "Голос за животных"}
-- {s: "bird", t: "Кур и свиней сжигают и варят живьем в Европе и США", url: "manu-herran-chicken-and-pigs-burned-and-boiled-alive-in-europe-and-usa.html", by: "Ману Эрран"}
-- {s: "bird", t: "Что не так с курятиной", url: "http://chicken.whyanimals.ru/", by: "WhyAnimals"}
-- {s: "bird", t: "Что не так с куриным яйцом", url: "http://egg.whyanimals.ru/", by: "WhyAnimals"}
-
-#### Водные животные
-
-- {s: "fish", t: "Крик без голоса: как убивают рыб в промышленных масштабах", url: "https://t.me/voicesforanimals/2184", by: "Голоса за животных"}
-- {s: "fish", t: "Триллион рыб", url: "brian-tomasik-one-trillion-fish.html", by: "Брайан Томасик"}
-- {s: "fish", t: "Всемирный день отмены рыболовства", url: "https://vk.com/wall-30456083_48421", by: "Голоса за животных"}
-- {s: "fish", t: "Испытывают ли боль беспозвоночные?", url: "https://habr.com/ru/post/553074/", by: "Фанерозой"}
-- {s: "fish", t: "Боль головоногая", url: "https://nplus1.ru/material/2020/12/18/consider-the-octopus", by: "N + 1"}
-- {s: "fish", t: "Крабы и омары заслуживают защиты от приготовления вживую", url: "https://theidealist.ru/crabpain/", by: "Джонатан Бирч"}
-
-### Одежда, тесты, зоопарки и притравки
-
-- {s: "fur", t: "Животные и одежда", url: "https://voicesforanimals.ru/dress", by: "Голоса за животных"}
-- {s: "fur", t: "Как страдают животные, используемые для получения меха", url: "https://voicesforanimals.ru/why/furbearers", by: "Голоса за животных"}
-- {s: "fur", t: "Мех", url: "https://voicesforanimals.ru/dress/fur/", by: "Голоса за животных"}
-- {s: "fur", t: "Цена меха. Что происходит на зверофермах России", url: "https://www.youtube.com/watch?v=Zk2yn8nPZ8I", by: "Голос за животных"}
-- {s: "fur", t: "Глобальный упадок меховой индустрии: анализ за последние 10 лет", url: "https://voicesforanimals.ru/proizvodstvo-meha-v-mire-upalo/", by: "Голоса за животных"}
-- {s: "fur", t: "Кожа", url: "https://voicesforanimals.ru/dress/leather", by: "Голоса за животных"}
-- {s: "fur", t: "Что носить вместо кожи?", url: "https://voicesforanimals.ru/dress/leather/choice", by: "Голоса за животных"}
-- {s: "fur", t: "Шерсть", url: "https://voicesforanimals.ru/dress/wool", by: "Голоса за животных"}
-- {s: "fur", t: "#они_не_для_тестов — кампания за запрет тестирования косметики на животных в странах Евразийского экономического союза (ЕАЭС)", url: "https://www.stoptests.ru/"}
-- {s: "fur", t: "Почему наука не может обойтись без лабораторных животных?", url: "https://knife.media/lab-animals-problem/", by: "Журнал «Нож»"}
-- {s: "fur", t: "Что не так с тестированием на животных", url: "http://testing.whyanimals.ru/", by: "WhyAnimals"}
-- {s: "fur", t: "Что не так с притравками", url: "http://baiting.whyanimals.ru/", by: "WhyAnimals"}
-- {s: "fur", t: "Что не так с контактными зоопарками", url: "http://contactzoo.whyanimals.ru/", by: "WhyAnimals"}
-
-### Беспозвоночные
-
-- {s: "inv", t: "Испытывают ли боль беспозвоночные?", url: "https://habr.com/ru/post/553074/", by: "Фанерозой"}
-- {s: "inv", t: "Боль головоногая", url: "https://nplus1.ru/material/2020/12/18/consider-the-octopus", by: "N + 1"}
-- {s: "inv", t: "Больше боли. Шмели умеют терпеть. Значит ли это, что им бывает больно?", url: "https://nplus1.ru/material/2022/08/19/bumblebees-in-pain", by: "N + 1"}
-- {s: "inv", t: "Биологи решили, что насекомые могут переживать боль", url: "https://naked-science.ru/article/biology/nasekomye-mogut-perezhivat-bol", by: "Naked Science"}
-- {s: "inv", t: "Пчёлы — «философские зомби» или сознательные существа?", url: "https://ubq124.wordpress.com/2019/01/02/inside-the-mind-of-a-bee-is-a-hive-of-sensory-activity/", by: "Ларс Читтка, Кэтрин Уилсон"}
-- {s: "inv", t: "Крабы и омары заслуживают защиты от приготовления вживую", url: "https://theidealist.ru/crabpain/", by: "Джонатан Бирч"}
-- {s: "inv", t: "Триллионы невидимых страданий: как эксплуатируют насекомых", url: "https://t.me/voicesforanimals/2124", by: "Голоса за животных"}
-- {s: "inv", t: "Что не так с энтомофагией", url: "brian-tomasik-whats-wrong-with-entomophagy-a-short-interview.html", by: "Брайан Томасик"}
-
-### Как общаться с людьми
-
-- {s: "comm", t: "Почему большинство интернет-активистов не меняют ничьего мнения", url: "https://effective-vegan.livejournal.com/3339.html", by: "Дэвид Кейн"}
-- {s: "comm", t: "Сначала доброта, потом правота: почему аргументы не помогают переубедить человека", url: "https://ideanomics.ru/articles/28692", by: "Джеймс Клир"}
-- {s: "comm", t: "Как говорить на этические темы?", url: "https://streetepistemology.ru/kak-govorit-na-eticheskie-temy", by: "Уличная эпистемология"}
-- {s: "comm", t: "Как правильно спорить о главном в интернете и реальной жизни", url: "https://knife.media/epistemology/", by: "Мария Оленева"}
-- {s: "comm", t: "Среда, общение и рациональность", url: "https://quilfe.livejournal.com/723.html", by: "Виталий Бормотов"}
-- {s: "comm", t: "Как обсуждать проблемы, когда противоречия непреодолимы", url: "https://reminder.media/post/pravila-emotsionalnogo-obshcheniya", by: "Адам Грант"}
-- {s: "comm", t: "Как отказ от насилия в речи помогает решить проблемы в отношениях с другими и самим собой", url: "https://knife.media/be-less-violent/", by: "Мария Оленева"}
-
-### Сознание и моральный круг
-
-- {s: "eth", t: "Что такое биоэтика и зачем она в школе", url: "https://mel.fm/ucheba/shkola/6347209-zhestokost-po-otnosheniyu-k-zhivotnym-ne-redkost-sredi-detey-chto-takoye-bioetika-i-zachem-ona-v-shk", by: "Мел"}
-- {s: "eth", t: "О страдании и долге людей перед животными", url: "https://reducingsuffering.github.io/324.html", by: "Николай Бердяев"}
-- {s: "eth", t: "Способны ли они страдать? О связи интеллекта со страданием", url: "richard-dawkins-but-can-they-suffer.html", by: "Ричард Докинз"}
-- {s: "eth", t: "Кто мы такие, чтобы судить об уме животных?", url: "https://web.archive.org/web/20230608152626/https://newtonew.com/science/kto-my-takie-chtoby-sudit-ob-ume-zhivotnyh", by: "Newtonew"}
-- {s: "eth", t: "Сентиентность", url: "https://vk.com/@-186526582-sentience", by: "Иван Попов"}
-- {s: "eth", t: "Против видовой дискриминации", url: "tobias-baumann-the-case-against-speciesism.html", by: "Тобиас Бауман"}
-- {s: "eth", t: "Питер Сингер: «Я не трачу денег на спасение панд»", url: "https://web.archive.org/web/20210517132023/https://journal.bookmate.com/ya-ne-trachu-deneg-na-spasenie-pand/", by: "Bookmate Journal"}
-- {s: "eth", t: "Нравственные основы вегетарианства", url: "https://siyanie.net/catalog/literatura/tproduct/136790127012-kniga-moralnie-osnovi-vegetarianstva-mah", by: "Махатма Ганди"}
-- {s: "eth", t: "Вклад Шопенгауэра в развитие движения в защиту животных", url: "https://cyberleninka.ru/article/n/vklad-shopengauerav-razvitie-dvizheniya-v-zaschitu-zhivotnyh", by: "Наталья Чепелева"}
-- {s: "eth", t: "«Они не рабы»: Что такое веганский аболиционизм", url: "https://web.archive.org/web/20210514042722/https://www.wonderzine.com/wonderzine/life/life/237351-vegan-abolitionism", by: "Wonderzine"}
-- {s: "eth", t: "От утилитариста до аболициониста и назад через месяц", url: "michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month.html", by: "Майкл Делло-Иаково"}
-- {s: "eth", t: "Почему мы хотим думать, что люди отличаются?", url: "https://reducingsuffering.github.io/colin-chapman-michael-huffman-1.html", by: "Колин Чапмен & Майкл Хаффман"}
-- {s: "eth", t: "Сочувствуем ли мы животным больше, чем людям?", url: "https://web.archive.org/web/20211201190829/https://www.wonderzine.com/wonderzine/life/life-opinion/215687-stop-the-violence", by: "Wonderzine"}
-- {s: "eth", t: "Звери, роботы и люди: есть ли шансы на равноправие?", url: "https://newochem.io/moral-circle/", by: "Newочём"}
-- {s: "eth", t: "Далеко не Омелас", url: "https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html", by: "Магнус Виндинг"}
-- {s: "eth", t: "Зачем веганам думать о страданиях в дикой природе", url: "https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html", by: "Брайан Томасик"}
-- {s: "eth", t: "ИИ должны быть защищены не меньше животных", url: "https://reducingsuffering.github.io/john-basl-ais-should-have-the-same-ethical-protections-as-animals.html", by: "Джон Басл & Эрик Швицгебель"}
+- {s: "ex", t: "Промышленное животноводство — одно из самых страшных преступлений в истории", url: "https://syg.ma/@tochkinade/promyshliennoie-zhivotnovodstvo-odno-iz-samykh-strashnykh-priestuplienii-v-istorii", by: "Юваль Ной Харари"}
+- {s: "ex", t: "Вклад Шопенгауэра в развитие движения в защиту животных", url: "https://cyberleninka.ru/article/n/vklad-shopengauerav-razvitie-dvizheniya-v-zaschitu-zhivotnyh", by: "Наталья Чепелева"}
 ---
