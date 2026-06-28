@@ -58,7 +58,6 @@ excerpt: "Как помочь животным."
     color: black;
     font-size: 2em;
   }
-  
   .mobile {
     display: none;
   }
@@ -78,15 +77,16 @@ excerpt: "Как помочь животным."
 <table class="desktop" style="margin-bottom: 0; padding-bottom: 0">
 
 <tr>
-<td style="width: 15%; padding-right: 0"><div style="position: relative"><img src="assets/images/start.jpg"/></div></td>
-<td style="width: 15%; padding-left: 0; vertical-align: bottom"><div class="over-r">начните<br>здесь</div></td>
+<td style="width: 30%">
+<table><tr style="padding: 0; margin: 0;"><td style="width: 50%; padding: 0; margin: 0"><div style="position: relative"><img src="assets/images/start.jpg"/></div></td><td style="width: 50%; padding: 0; margin: 0; vertical-align: bottom"><div class="over-r">начните<br>здесь</div></td></tr></table>
+</td>
 <td style="width: 30%">{% include section.html s="basic" %}</td>
 <td style="width: 30%">{% include section.html s="comm" %}</td>
 </tr>
 
 </table>
 
-<table class="desktop">
+<table class="desktop" style="padding-top: 0; margin-top: 0">
 
 <tr>
 <td style="width: 30%"><div class="cell">{% include list.html s="red" %}</div></td>
@@ -229,9 +229,11 @@ excerpt: "Как помочь животным."
 
 - [Голоса за животных](http://voicesforanimals.ru/) ([ВКонтакте](https://vk.com/voicesforanimals), [Telegram](https://t.me/voicesforanimals))
 - Вегетарианцы и веганы ([ВКонтакте](https://vk.com/vegetarians), [Telegram](https://t.me/russian_vegans))
-- [80000 часов. Как построить успешную карьеру и принести пользу миру](https://80000hours.ru/)
 - [Едим лучше](https://vk.com/eatingbetter)
+- [WhyAnimals](https://whyanimals.ru/)
+- [Центр защиты прав животных "ВИТА"](http://www.vita.org.ru/) ([ВКонтакте](https://vk.com/club3349701), [Telegram](https://t.me/vita_russia))
 - [Уменьшение страданий](https://reducingsuffering.github.io/) ([ВКонтакте](https://vk.com/reducing_suffering), [Telegram](https://t.me/reducing_suffering))
+- [80000 часов. Как построить успешную карьеру и принести пользу миру](https://80000hours.ru/)
 - [Animal Charity Evaluators](https://animalcharityevaluators.org/)
 - [Anima International](https://animainternational.org/)
 - Our World in Data: [Animal Welfare](https://ourworldindata.org/animal-welfare)
