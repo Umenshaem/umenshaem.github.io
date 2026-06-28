@@ -1,3 +1,1 @@
-{% for a in site.data.list %}
-{% if a.s == include.s %}<a href="{{ a.url }}">{{ a.t }}</a><br>{% endif %}
-{% endfor %}
+{% for a in site.data.list %}{% if a.s == include.s %}{% if a.type == "div" %}<hr style="margin: 0.2em; padding: 0.2em">{% else %}► {% case a.type %}{% when "petition" %}Петиция: {% when "book" %}Книга: {% when "movie" %}Фильм: {% when "video" %}Видео: {% endcase %}<a href="{{ a.url }}">{{ a.t }}</a><br>{% endif %}{% endif %}{% endfor %}
