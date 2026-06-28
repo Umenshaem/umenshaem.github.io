@@ -53,6 +53,11 @@ excerpt: "Как помочь животным."
     margin-bottom: 0.2em;
     margin-right: 3em;
   }
+  .start {
+    font-family: Angeme;
+    color: black;
+    font-size: 2em;
+  }
 </style>
 
 <table class="desktop" style="margin-bottom: 0; padding-bottom: 0">
@@ -134,8 +139,7 @@ excerpt: "Как помочь животным."
 
 <div class="mobile">
 
-<h3>Начните здесь</h3>
-
+<div class="start">начните здесь</div>
 {% include list.html s="red" %}
 <br>
 
