@@ -2,6 +2,27 @@ a {
   color: #0000A7;	
 }
 
+@font-face {
+  font-family: Angeme;
+  src: url(../fonts/Angeme.ttf);
+}
+@font-face {
+  font-family: Czizh;
+  src: url(../fonts/Czizh.ttf);
+}
+@font-face {
+  font-family: Equilibrist;
+  src: url(../fonts/Equilibrist.ttf);
+}
+@font-face {
+  font-family: Gnocchi;
+  src: url(../fonts/Gnocchi.ttf);
+}
+@font-face {
+  font-family: Oprah;
+  src: url(../fonts/Oprah.ttf);
+}
+
 .page-title {
   font-family:verdana
 }
@@ -22,6 +43,8 @@ a {
 }
 .masthead-title,
 .masthead-title a {
+  font-family: Gnocchi;
+  font-size: 1.2em;
   margin-top: 0;
   margin-bottom: 0;
   color: #00008B;
@@ -30,11 +53,11 @@ a {
 }
 .masthead-subtitle,
 .masthead-subtitle a {
+  font-family: Oprah;
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
   font-weight: bold;
-  font-style: italic;
   text-align: center;
 }
 
