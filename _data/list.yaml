@@ -107,6 +107,7 @@
 - {s: "fur", t: "Как страдают животные, используемые для получения меха", url: "https://voicesforanimals.ru/why/furbearers", by: "Голоса за животных"}
 - {s: "fur", t: "Почему стоит отказаться от использования меха?", url: "https://russia.furfreeretailer.com/why-fur-free/", by: "Fur Free Retailer"}
 - {s: "fur", t: "Цена меха. Что происходит на зверофермах России", url: "https://www.youtube.com/watch?v=Zk2yn8nPZ8I", by: "Голоса за животных", type: "video"}
+- {s: "fur", t: "Посмотри в глаза своей шубе", url: "https://www.youtube.com/watch?v=b8EqUt2Oluc", by: "Вита", type: "video"}
 - {s: "fur", t: "Россия без меха", url: "https://furfree.ru/", by: "Голоса за животных"}
 - {s: "fur", t: "В самой обильной по производству меха стране с животных снимают шкуру заживо", url: "http://www.vita.org.ru/new/15.0405.htm", by: "Вита"}
 - {s: "fur", t: "Воздействие производства меха на окружающую среду", url: "https://voicesforanimals.ru/dress/fur/environment", by: "Голоса за животных"}
@@ -136,6 +137,7 @@
 - {s: "beauty", t: "#они_не_для_тестов — кампания за запрет тестирования косметики на животных в странах ЕАЭС", url: "https://www.stoptests.ru/"}
 - {s: "beauty", t: "Запретить тестирование косметики на животных в странах ЕАЭС", url: "https://www.change.org/p/%D0%BE%D0%BD%D0%B8-%D0%BD%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2", type: "petition"}
 - {s: "beauty", t: "Косметика без жестокости", url: "http://www.vita.org.ru/exper/articles-experiments/kultpohod-novozhilova.htm", by: "Вита"}
+- {s: "beauty", t: "Как обеспечить безопасность косметических средств без тестирования на животных", url: "http://www.vita.org.ru/exper/cosmetology/lush.htm", by: "Джил Лэнгли, Крис Лэнгли"}
 - {s: "beauty", t: "Концепция трёх R", url: "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%86%D0%B5%D0%BF%D1%86%D0%B8%D1%8F_%D1%82%D1%80%D1%91%D1%85_R", by: "Википедия"}
 - {s: "beauty", type: "div"}
 - {s: "beauty", t: "Список фирм, производящих косметику, парфюмерию и бытовую химию, не испытанные на животных", url: "http://www.vita.org.ru/exper/netestirov.htm", by: "Вита"}
