@@ -1,0 +1,1 @@
+{% for a in site.data.sections %}{% if a.s == include.s %}<div style="position: relative"><img src="assets/images/{{ a.img }}"/><div class="over">{{ a.t }}</div></div>{% break %}{% endif %}{% endfor %}
