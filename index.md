@@ -230,6 +230,7 @@ excerpt: "Как помочь животным."
 - [Голоса за животных](http://voicesforanimals.ru/) ([ВКонтакте](https://vk.com/voicesforanimals), [Telegram](https://t.me/voicesforanimals))
 - Вегетарианцы и веганы ([ВКонтакте](https://vk.com/vegetarians), [Telegram](https://t.me/russian_vegans))
 - [80000 часов. Как построить успешную карьеру и принести пользу миру](https://80000hours.ru/)
+- [Едим лучше](https://vk.com/eatingbetter)
 - [Уменьшение страданий](https://reducingsuffering.github.io/) ([ВКонтакте](https://vk.com/reducing_suffering), [Telegram](https://t.me/reducing_suffering))
 - [Animal Charity Evaluators](https://animalcharityevaluators.org/)
 - [Anima International](https://animainternational.org/)
