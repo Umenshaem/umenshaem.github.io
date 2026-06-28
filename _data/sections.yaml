@@ -1,0 +1,18 @@
+---
+- {s: "red", t: "начните здесь", img: "start.jpg"}
+- {s: "basic", t: "зачем думать о животных", img: "pezibear-paw-548634.jpg"}
+- {s: "comm", t: "как общаться с людьми", img: "clker-free-vector-images-speech-35342.jpg"}
+- {s: "farm", t: "животноводство", img: "Hog_confinement_barn_interior.jpg"}
+- {s: "cow", t: "коровы", img: "franzl34-bovine-552948.jpg"}
+- {s: "pig", t: "свиньи", img: "tomwieden-pig-4502063.jpg"}
+- {s: "sheep", t: "овцы", img: "noname_13-sheep-2292802.jpg"}
+- {s: "bird", t: "куры", img: "makamuki0-hen-5999017.jpg"}
+- {s: "fish", t: "рыбы", img: "publicdomainimages-fish-387160.jpg"}
+- {s: "fur", t: "цена шубы", img: "373e0bea-e729-4ed3-a6e0-7a443462afc5.jpg"}
+- {s: "beauty", t: "цена красоты", img: "efaf091b-5b63-4c6e-b96f-8566dc841ff9.jpg"}
+- {s: "zoo", t: "прочее", img: "aknourkova-animal-2475743.jpg"}
+- {s: "inv", t: "беспозвоночные", img: "tracyjaneshaw-crab-902734.jpg"}
+- {s: "veg", t: "веганство", img: "ritae-vegetable-skewer-3317055.jpg"}
+- {s: "tech", t: "искусственное мясо", img: "First_cultured_hamburger_fried.jpg"}
+- {s: "other", t: "другие темы", img: "vinayakharshvardhan-eye-1363161.jpg"}
+---
