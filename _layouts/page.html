@@ -5,10 +5,13 @@
 {% include head.html %}
 
 <body>
-<div class="masthead"><div class="container">
-<h3 class="masthead-title" style="margin: 0; padding: 0"><a href="{{ '/index.html' | relative_url }}" style="text-decoration: none; color: black">Уменьшаем</a></h3>
-<center><div class="masthead-subtitle">меньше страданий и жестокости</div></center>
-</div></div>
+<div class="masthead">
+<table style="margin: 0; padding: 0">
+<tr style="height: 4em"><td width="20%" style="padding: 0; margin: 0; text-align: right"><img src="/assets/images/picture2.png" style="display: inline; height: 5em"></td>
+<td width="40%"><div class="masthead-title"><a href="{{ '/index.html' | relative_url }}" style="text-decoration: none; color: black">Уменьшаем</a></div><center><div class="masthead-subtitle">страдания животных</div></center></td>
+<td width="20%"></td></tr>
+</table>
+</div>
 <div style="margin: 16px">
 
 {{ content }}
