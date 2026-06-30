@@ -232,9 +232,11 @@
 - {s: "res", t: "Центр защиты прав животных «ВИТА»", url: "http://www.vita.org.ru/", vk: "https://vk.com/club3349701", tel: "https://t.me/vita_russia", type: "res"}
 - {s: "res", t: "Уменьшение страданий", url: "https://reducingsuffering.github.io/", vk: "https://vk.com/reducing_suffering", tel: "https://t.me/reducing_suffering", type: "res"}
 - {s: "res", t: "80000 часов. Как построить успешную карьеру и принести пользу миру", url: "https://80000hours.ru/", type: "res"}
-- {s: "res", t: "Animal Charity Evaluators", url: "https://animalcharityevaluators.org/", type: "res"}
-- {s: "res", t: "Anima International", url: "https://animainternational.org/", type: "res"}
-- {s: "res", pre: "Our World in Data", t: "Animal Welfare", url: "https://ourworldindata.org/animal-welfare", type: "res"}
 - {s: "res", t: "Reducetarian Foundation", url: "https://www.reducetarian.org/", type: "res"}
 - {s: "res", t: "One Step for Animals", url: "https://www.onestepforanimals.org/", type: "res"}
+- {s: "res", t: "Animal Charity Evaluators", url: "https://animalcharityevaluators.org/", type: "res"}
+- {s: "res", t: "Anima International", url: "https://animainternational.org/", type: "res"}
+- {s: "res", t: "Welfare Footprint Institute", url: "https://welfarefootprint.org/", type: "res"}
+- {s: "res", pre: "Our World in Data", t: "Animal Welfare", url: "https://ourworldindata.org/animal-welfare", type: "res"}
+- {s: "res", t: "Animal Ethics", url: "https://www.animal-ethics.org/", type: "res"}
 ---
