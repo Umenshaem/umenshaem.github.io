@@ -9,10 +9,11 @@
 - {s: "bird", t: "куры", img: "makamuki0-hen-5999017.jpg"}
 - {s: "fish", t: "рыбы", img: "publicdomainimages-fish-387160.jpg"}
 - {s: "fur", t: "цена шубы", img: "fur.jpg"}
-- {s: "beauty", t: "цена красоты", img: "efaf091b-5b63-4c6e-b96f-8566dc841ff9.jpg"}
-- {s: "zoo", t: "ещё жесть", img: "aknourkova-animal-2475743.jpg"}
+- {s: "beauty", t: "цена косметики", img: "efaf091b-5b63-4c6e-b96f-8566dc841ff9.jpg"}
+- {s: "zoo", t: "другая жесть", img: "christels-cat-2532550.jpg"}
 - {s: "inv", t: "беспозвоночные", img: "tracyjaneshaw-crab-902734.jpg"}
 - {s: "veg", t: "веганство", img: "ritae-vegetable-skewer-3317055.jpg"}
 - {s: "tech", t: "искусственное мясо", img: "First_cultured_hamburger_fried.jpg"}
-- {s: "other", t: "другие темы", img: "vinayakharshvardhan-eye-1363161.jpg"}
+- {s: "other", t: "другие темы", img: "murphychen-rabbit-4350450.jpg"}
+- {s: "res", t: "ресурсы", img: "vinayakharshvardhan-eye-1363161.jpg"}
 ---
