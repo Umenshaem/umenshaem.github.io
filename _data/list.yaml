@@ -93,7 +93,9 @@
 - {s: "farm", t: "Благополучие животных", url: "https://ea-ru.org/articles/animal-welfare", by: "Джесс Уиттлстоун"}
 - {s: "farm", t: "Воздействие животноводства на окружающую среду", url: "https://voicesforanimals.ru/food/ecology", by: "Голоса за животных"}
 - {s: "farm", t: "Животноводство: распределённое зло", url: "magnus-vinding-animal-agriculture-distributed-evil.html", by: "Магнус Виндинг"}
+- {s: "farm", t: "Промышленное животноводство — одно из самых страшных преступлений в истории", url: "https://syg.ma/@tochkinade/promyshliennoie-zhivotnovodstvo-odno-iz-samykh-strashnykh-priestuplienii-v-istorii", by: "Юваль Ной Харари"}
 - {s: "farm", t: "За что люди будущего могут считать нас варварами?", url: "https://hedweb-ru.github.io/quora/people-of-the-future-think-of-us-as-barbarians.html", by: "Дэвид Пирс"}
+- {s: "farm", t: "Химическая пирамида: как выращивают животных на промышленных фермах", url: "https://vk.com/umenshaem?z=video-28658784_456352423%2F62e31afc9ed5c53966", by: "НТВ"}
 - {s: "farm", type: "div"}
 - {s: "farm", t: "Как эффективно уменьшить страдания животных", url: "tobias-baumann-effective-strategies-to-reduce-animal-suffering.html", by: "Тобиас Бауман"}
 - {s: "farm", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
@@ -200,6 +202,8 @@
 
 ### Этика
 
+### Тестирование лекарств
+
 - {s: "other", t: "Питер Сингер: «Я не трачу денег на спасение панд»", url: "https://web.archive.org/web/20210517132023/https://journal.bookmate.com/ya-ne-trachu-deneg-na-spasenie-pand/", by: "Bookmate Journal"}
 - {s: "other", t: "Почему мы хотим думать, что люди отличаются?", url: "https://reducingsuffering.github.io/colin-chapman-michael-huffman-1.html", by: "Колин Чапмен & Майкл Хаффман"}
 - {s: "other", t: "Сочувствуем ли мы животным больше, чем людям?", url: "https://web.archive.org/web/20211201190829/https://www.wonderzine.com/wonderzine/life/life-opinion/215687-stop-the-violence", by: "Wonderzine"}
@@ -217,6 +221,20 @@
 
 ### Исключенное
 
-- {s: "ex", t: "Промышленное животноводство — одно из самых страшных преступлений в истории", url: "https://syg.ma/@tochkinade/promyshliennoie-zhivotnovodstvo-odno-iz-samykh-strashnykh-priestuplienii-v-istorii", by: "Юваль Ной Харари"}
 - {s: "ex", t: "Вклад Шопенгауэра в развитие движения в защиту животных", url: "https://cyberleninka.ru/article/n/vklad-shopengauerav-razvitie-dvizheniya-v-zaschitu-zhivotnyh", by: "Наталья Чепелева"}
+
+### Ресурсы
+
+- {s: "res", t: "Голоса за животных", url: "http://voicesforanimals.ru/", vk: "https://vk.com/voicesforanimals", tel: "https://t.me/voicesforanimals", type: "res"}
+- {s: "res", t: "Вегетарианцы и веганы", vk: "https://vk.com/vegetarians", tel: "https://t.me/russian_vegans", type: "res"}
+- {s: "res", t: "Едим лучше", vk: "https://vk.com/eatingbetter", type: "res"}
+- {s: "res", t: "WhyAnimals", url: "https://whyanimals.ru/", type: "res"}
+- {s: "res", t: "Центр защиты прав животных «ВИТА»", url: "http://www.vita.org.ru/", vk: "https://vk.com/club3349701", tel: "https://t.me/vita_russia", type: "res"}
+- {s: "res", t: "Уменьшение страданий", url: "https://reducingsuffering.github.io/", vk: "https://vk.com/reducing_suffering", tel: "https://t.me/reducing_suffering", type: "res"}
+- {s: "res", t: "80000 часов. Как построить успешную карьеру и принести пользу миру", url: "https://80000hours.ru/", type: "res"}
+- {s: "res", t: "Animal Charity Evaluators", url: "https://animalcharityevaluators.org/", type: "res"}
+- {s: "res", t: "Anima International", url: "https://animainternational.org/", type: "res"}
+- {s: "res", pre: "Our World in Data", t: "Animal Welfare", url: "https://ourworldindata.org/animal-welfare", type: "res"}
+- {s: "res", t: "Reducetarian Foundation", url: "https://www.reducetarian.org/", type: "res"}
+- {s: "res", t: "One Step for Animals", url: "https://www.onestepforanimals.org/", type: "res"}
 ---
