@@ -150,14 +150,25 @@
 #### Водные животные
 
 - {s: "fish", t: "Рыба", url: "https://voicesforanimals.ru/food/fish", by: "Голоса за животных"}
+- {s: "fish", t: "Ученые утверждают, что даже без определенных областей мозга рыбы могут чувствовать боль", url: "https://www.techinsider.ru/science/news-694803-uchenye-utverzhdayut-chto-dazhe-bez-opredelennyh-oblastey-mozga-ryby-mogut-chuvstvovat-bol/", by: "TechInsider"}
+- {s: "fish", t: "Рыбы разумны, страдают и чувствуют боль как вы", url: "https://www.mk.ru/science/2010/12/07/550135-ryibyi-razumnyi-stradayut-i-chuvstvuyut-bol-kak-vyi.html", by: "Московский Комсомолец"}
+- {s: "fish", t: "Чувствуют ли рыбы боль и удовольствие?", url: "https://womo.ua/ru/chuvstvuyut-li-ryibyi-bol-i-udovolstvie/", by: "WoMo"}
 - {s: "fish", t: "Триллион рыб", url: "brian-tomasik-one-trillion-fish.html", by: "Брайан Томасик"}
 - {s: "fish", t: "Крик без голоса: как убивают рыб в промышленных масштабах", url: "https://t.me/voicesforanimals/2184", by: "Голоса за животных"}
+- {s: "fish", t: "В защиту безмолвных. Вся правда о рыбах", url: "http://www.vita.org.ru/veg/veg-fish/truth.htm", by: "Вита"}
+- {s: "fish", t: "Рыба после вылова страдает по 20 минут", url: "https://hi-news.ru/research-development/kazhdaya-ryba-posle-vylova-stradaet-po-20-minut-kak-uchenye-eto-uznali.html", by: "Hi-News"}
+- {s: "fish", t: "Триллионы минут страданий: Рыбы, вытащенные из воды, чувствуют боль", url: "https://www.kp.ru/daily/27715.5/5103773/", by: "Комсомольская Правда"}
+- {s: "fish", type: "div"}
+- {s: "fish", t: "10 причин, по которым употребление рыбы и морепродуктов вредно для вашего здоровья и планеты ", url: "http://www.vita.org.ru/new/2021/dec/06.htm", by: "Вита"}
+- {s: "fish", t: "Борьба с рыболовством это также борьба с современным рабством ", url: "http://www.vita.org.ru/new/2018/oct/16.htm", by: "Вита"}
 - {s: "fish", t: "Всемирный день отмены рыболовства", url: "https://vk.com/wall-30456083_48421", by: "Голоса за животных"}
 
 ### Беспозвоночные
 
 - {s: "inv", t: "Испытывают ли боль беспозвоночные?", url: "https://habr.com/ru/post/553074/", by: "Фанерозой"}
 - {s: "inv", t: "Боль головоногая", url: "https://nplus1.ru/material/2020/12/18/consider-the-octopus", by: "N + 1"}
+- {s: "inv", t: "Крабы и омары заслуживают защиты от приготовления вживую", url: "https://theidealist.ru/crabpain/", by: "Джонатан Бирч"}
+- {s: "inv", t: "Осьминоги и раки могут страдать от боли. Власти некоторых стран хотят их защитить", url: "https://hi-news.ru/research-development/osminogi-i-raki-mogut-stradat-ot-boli-vlasti-nekotoryx-stran-xotyat-ix-zashhitit.html", by: "Hi-News"}
 - {s: "inv", t: "Крабы и омары заслуживают защиты от приготовления вживую", url: "https://theidealist.ru/crabpain/", by: "Джонатан Бирч"}
 - {s: "inv", t: "Больше боли. Шмели умеют терпеть. Значит ли это, что им бывает больно?", url: "https://nplus1.ru/material/2022/08/19/bumblebees-in-pain", by: "N + 1"}
 - {s: "inv", t: "Биологи решили, что насекомые могут переживать боль", url: "https://naked-science.ru/article/biology/nasekomye-mogut-perezhivat-bol", by: "Naked Science"}
