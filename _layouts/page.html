@@ -5,14 +5,14 @@
 {% include head.html %}
 
 <body>
-<div class="masthead">
-<table style="margin: 0; padding: 0">
-<tr style="height: 4em"><td width="20%" style="padding: 0; margin: 0; text-align: right"><img src="/assets/images/picture2.png" style="display: inline; height: 5em"></td>
-<td width="40%"><div class="masthead-title"><a href="{{ '/index.html' | relative_url }}" style="text-decoration: none; color: black">Уменьшаем</a></div><center><div class="masthead-subtitle">страдания животных</div></center></td>
-<td width="20%"></td></tr>
+
+<table class="masthead" style="table-layout: auto; width: 100%; margin: 0; padding: 0">
+<tr style="height: 4em"><td><img src="/assets/images/picture2.png" style="width: 4em; max-width: none"></td>
+<td style="white-space: nowrap"><div class="masthead-title"><a href="{{ '/index.html' | relative_url }}" style="text-decoration: none; color: black">Уменьшаем</a></div><div class="masthead-subtitle">страдания животных</div></td>
+<td style="text-align: right; vertical-align: bottom; width: 100%; padding-right: 1em"><a href="{{ site.vk }}">ВКонтакте</a><br><a href="{{ site.telegram }}">Telegram</a></td></tr>
 </table>
-</div>
-<div style="margin: 16px">
+
+<div style="margin: 0.2em">
 
 {{ content }}
 
