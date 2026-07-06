@@ -57,6 +57,11 @@ html {
   align-items: flex-start;
   margin-left: calc(var(--sidebar) + var(--gap));
 }
+@media (max-width: 768px) {
+  .wrapper {
+    margin-left: 1em;
+  }
+}
 
 .bar {
   align-self: start;
@@ -78,7 +83,6 @@ html {
 @media (min-width: 48em) {
   .rside {
     width: var(--sidebar);
-    margin-left: var(--gap);
     flex-shrink: 0;
   }
 }
@@ -86,6 +90,7 @@ html {
 .content {
   flex: 1;
   max-width: 900px;
+  margin-right: var(--gap);
 }
 
 .container {
