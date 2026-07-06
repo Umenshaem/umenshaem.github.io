@@ -108,14 +108,14 @@ html {
 }
 
 .container-masthead {
-  background-color: rgb(237, 237, 237);
+  background-color: rgb(240, 245, 255);
 }
 .masthead {
   padding-top: 0.5em;
   padding-bottom: 0rem;
   margin-bottom: 0rem;
   border-bottom: 1px solid #eee;
-  background-color: rgb(237, 237, 237);
+  background-color: rgb(240, 245, 255);
 }
 .masthead-title,
 .masthead-title a {
