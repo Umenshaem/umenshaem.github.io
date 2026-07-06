@@ -251,4 +251,5 @@
 - {s: "res", t: "Welfare Footprint Institute", url: "https://welfarefootprint.org/", type: "res"}
 - {s: "res", pre: "Our World in Data", t: "Animal Welfare", url: "https://ourworldindata.org/animal-welfare", type: "res"}
 - {s: "res", t: "Animal Ethics", url: "https://www.animal-ethics.org/", type: "res"}
+- {s: "res", t: "Faunalytics", url: "https://faunalytics.org", type: "res"}
 ---
