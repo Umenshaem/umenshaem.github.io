@@ -35,42 +35,6 @@ excerpt: "От чего страдают животные и как можно �
   .cimg {
     border-radius: 15px 15px 0 0;
   }
-  .over {
-    font-family: Neucha;
-    position: absolute;
-    bottom: 0.2em;
-    left: 0.4em;
-    color: white;
-    font-size: 2em;
-    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000, 1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
-  }
-  .over-r {
-    font-family: Neucha;
-    color: black;
-    font-size: 2em;
-    text-align: center;
-    margin-bottom: 0.2em;
-    margin-right: 3em;
-  }
-  .start {
-    font-family: Neucha;
-    color: black;
-    font-size: 2em;
-  }
-  .mobile {
-    display: none;
-  }
-  .desktop {
-    display: block;
-  }
-  @media (max-width: 768px) {
-    .desktop {
-      display: none;
-    }
-    .mobile {
-      display: block;
-    }
-  }
   .border {
     border: 2px solid;
   }
