@@ -130,6 +130,7 @@
 - {s: "sheep", t: "Шерсть", url: "https://voicesforanimals.ru/dress/wool", by: "Голоса за животных"}
 - {s: "sheep", t: "Кожа", url: "https://voicesforanimals.ru/dress/leather", by: "Голоса за животных"}
 - {s: "sheep", t: "Овцы, у которых слишком много кожи", url: "https://voicesforanimals.ru/dress/wool/merinos", by: "Голоса за животных"}
+- {s: "sheep", t: "Каракуль — мех новорожденных ягнят", url: "http://www.vita.org.ru/fur/karakul.htm", by: "Вита"}
 - {s: "sheep", t: "Что носить вместо кожи?", url: "https://voicesforanimals.ru/dress/leather/choice", by: "Голоса за животных"}
 - {s: "sheep", type: "div"}
 - {s: "sheep", t: "Экспертное мнение. Что не так с положением животных на фермах и почему это касается всех", url: "https://voicesforanimals.ru/jekspertnoe-mnenie-chto-ne-tak-s-polozheniem-zhivotnyh-fermah-i-pochemu-jeto-kasaetsja-vseh", by: "Голоса за животных"}
