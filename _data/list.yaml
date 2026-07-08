@@ -196,8 +196,6 @@
 - {s: "veg", t: "Освобождение животных", url: "http://vita.org.ru/library/philosophy/singer_animal_liberation.htm", by: "Питер Сингер", type: "book"}
 - {s: "veg", t: "Как сделать мир веганским", url: "https://www.youtube.com/watch?v=fYfhpG9kZGs", by: "Тобиас Ленарт"}
 - {s: "veg", type: "div"}
-- {s: "veg", t: "Могут ли домашние кошки и собаки быть вегетарианцами?", url: "https://takiedela.ru/news/2019/01/04/animal-veganism/", by: "Такие Дела"}
-- {s: "veg", type: "div"}
 - {s: "veg", t: "Нравственные основы вегетарианства", url: "https://siyanie.net/catalog/literatura/tproduct/136790127012-kniga-moralnie-osnovi-vegetarianstva-mah", by: "Махатма Ганди"}
 - {s: "veg", t: "«Они не рабы»: Что такое веганский аболиционизм", url: "https://web.archive.org/web/20210514042722/https://www.wonderzine.com/wonderzine/life/life/237351-vegan-abolitionism", by: "Wonderzine"}
 - {s: "veg", t: "От утилитариста до аболициониста и назад через месяц", url: "michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month.html", by: "Майкл Делло-Иаково"}
@@ -224,6 +222,7 @@
 - {s: "other", t: "Почему наука не может обойтись без лабораторных животных?", url: "https://knife.media/lab-animals-problem/", by: "Журнал «Нож»"}
 - {s: "other", t: "Эксперименты на животных в медицине", url: "http://www.vita.org.ru/exper/exp-medicine.htm", by: "Вита"}
 - {s: "other", t: "Эксперименты на животных: необходимость или варварство?", url: "http://www.vita.org.ru/exper/experiment-barbarian.htm", by: "Вита"}
+- {s: "other", t: "Могут ли домашние кошки и собаки быть вегетарианцами?", url: "https://takiedela.ru/news/2019/01/04/animal-veganism/", by: "Такие Дела"}
 - {s: "other", t: "Далеко не Омелас", url: "https://reducingsuffering.github.io/magnus-vinding-far-from-omelas.html", by: "Магнус Виндинг"}
 - {s: "other", t: "Зачем веганам думать о страданиях в дикой природе", url: "https://reducingsuffering.github.io/brian-tomasik-why-vegans-should-care-about-suffering-in-nature.html", by: "Брайан Томасик"}
 - {s: "other", t: "Страдания диких животных: почему они мало кого волнуют?", url: "https://reducingsuffering.github.io/david-pearce-3.html", by: "Дэвид Пирс"}
