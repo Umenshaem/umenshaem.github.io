@@ -131,10 +131,10 @@ html {
 }
 @media (max-width: 1016px) {
   .masthead-title {
-	font-size: 1em;
+	font-size: 0.8em;
   }
   .masthead-subtitle {
-	font-size: 0.8em;
+	font-size: 0.6em;
   }
 }
 .masthead-subtitle,
@@ -145,7 +145,6 @@ html {
   color: #505050;
   font-weight: bold;
   text-align: center;
-  white-space: nowrap;
 }
 
 .bottom {
