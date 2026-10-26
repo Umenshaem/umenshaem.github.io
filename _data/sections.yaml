@@ -1,5 +1,5 @@
 ---
-- {s: "red", t: "начните здесь", img: "start.jpg", articles: ["chto-takoe-reduktarianstvo", "brian-tomasik-does-vegetarianism-make-a-difference", "zamena-odnogo-myasa-na-drugoe"]}
+- {s: "red", t: "начните здесь", img: "start.jpg", articles: ["chto-takoe-reduktarianstvo", "brian-tomasik-does-vegetarianism-make-a-difference", "zamena-odnogo-myasa-na-drugoe", "tobias-leenaert-vegan-vegetarian-or-a-small-first-step"]}
 
 - {s: "basic", t: "зачем думать о животных", img: "pezibear-paw-548634.jpg", articles: ["nikolaj-berdyaev-1", "richard-dawkins-but-can-they-suffer", "tobias-baumann-the-case-against-speciesism"]}
 
@@ -25,7 +25,7 @@
 
 - {s: "inv", t: "беспозвоночные", img: "tracyjaneshaw-crab-902734.jpg", articles: ["brian-tomasik-whats-wrong-with-entomophagy-a-short-interview"]}
 
-- {s: "veg", t: "веганство", img: "ritae-vegetable-skewer-3317055.jpg", articles: ["magnus-vinding-animal-agriculture-distributed-evil", "michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month", "michael-dello-iacovo-why-do-vegans-talk-about-veganism-so-much", "tobias-leenaert-tipping-the-system-towards-a-vegan-world", "brian-tomasik-does-vegetarianism-make-a-difference"]}
+- {s: "veg", t: "веганство", img: "ritae-vegetable-skewer-3317055.jpg", articles: ["magnus-vinding-animal-agriculture-distributed-evil", "michael-dello-iacovo-from-utilitarian-to-abolitionist-and-back-in-a-month", "michael-dello-iacovo-why-do-vegans-talk-about-veganism-so-much", "tobias-leenaert-tipping-the-system-towards-a-vegan-world", "brian-tomasik-does-vegetarianism-make-a-difference", "tobias-leenaert-vegan-vegetarian-or-a-small-first-step"]}
 
 - {s: "tech", t: "искусственное мясо", img: "First_cultured_hamburger_fried.jpg"}
 
